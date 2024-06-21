@@ -1,5 +1,5 @@
 # SAM_knowledge_Distillation
-An implementation and visualization of a distilled Mobile SAM to a very small architecture optimised for edge device
+An implementation and visualization of a distilled Mobile SAM into a very small architecture optimised for edge device
 
 ## TENSORRT AND ONNX INSTALLATION
 

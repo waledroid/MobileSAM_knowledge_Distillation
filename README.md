@@ -1,12 +1,14 @@
 # SAM_knowledge_Distillation
 An implementation and visualization of a distilled Mobile SAM to a very small architecture optimised for edge device
 
-# TENSORRT AND ONNX INSTALLATION
+## TENSORRT AND ONNX INSTALLATION
 
 # TENSORRT
+
+<pre>
 conda create --name correct-nano python=3.8.10
 conda activate correct-nano 
-<pre>
+
 #PYTORCH 
 conda install pytorch==2.0.1 torchvision==0.15.2 torchaudio==2.0.2 pytorch-cuda=11.8 -c pytorch -c nvidia
 

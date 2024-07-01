@@ -1,6 +1,13 @@
 # SAM_knowledge_Distillation
 An implementation and visualization of a distilled Mobile SAM into a very small architecture optimised for edge device
 
+
+
+## Video Demonstration
+
+![Demo](./demo/bottle.gif)
+![Demo](./demo/bag.gif)
+
 ## TENSORRT AND ONNX INSTALLATION
 
 # TENSORRT

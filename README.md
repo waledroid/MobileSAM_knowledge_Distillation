@@ -5,8 +5,13 @@ An implementation and visualization of a distilled Mobile SAM into a very small 
 
 ## Video Demonstration
 
+
+<img src="./demo/bag.gif" alt="Demo" width="600" height="400">
+<img src="./demo/bottle.gif" alt="Demo" width="600" height="400">
+
 ![Demo](./demo/bottle.gif)
 ![Demo](./demo/bag.gif)
+
 
 ## TENSORRT AND ONNX INSTALLATION
 
